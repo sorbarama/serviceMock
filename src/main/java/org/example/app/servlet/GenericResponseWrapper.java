@@ -1,4 +1,4 @@
-package org.activiti.explorer.servlet;
+package org.example.app.servlet;
 
 import java.io.ByteArrayOutputStream;
 import java.io.PrintWriter;

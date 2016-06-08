@@ -1,4 +1,4 @@
-package org.activiti.explorer.conf;
+package org.example.app.conf;
 
 import org.springframework.context.annotation.*;
 

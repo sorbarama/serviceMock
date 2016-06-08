@@ -1,4 +1,4 @@
-package org.activiti.explorer.servlet;
+package org.example.app.servlet;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
