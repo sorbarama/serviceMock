@@ -1,4 +1,4 @@
-package it.lutech.c2sense.pee.ws;
+package org.exemple.app.ws;
 
 import javax.jws.WebMethod;
 import javax.jws.WebService;

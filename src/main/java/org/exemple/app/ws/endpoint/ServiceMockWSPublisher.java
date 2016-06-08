@@ -1,6 +1,6 @@
-package it.lutech.c2sense.pee.ws.endpoint;
+package org.exemple.app.ws.endpoint;
 
-import it.lutech.c2sense.pee.ws.ServiceMockImpl;
+import org.exemple.app.ws.ServiceMockImpl;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.core.env.Environment;
 

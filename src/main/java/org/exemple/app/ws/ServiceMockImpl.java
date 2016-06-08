@@ -1,4 +1,4 @@
-package it.lutech.c2sense.pee.ws;
+package org.exemple.app.ws;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
@@ -6,7 +6,7 @@ import org.slf4j.LoggerFactory;
 import javax.jws.WebService;
 
 //Service Implementation
-@WebService(endpointInterface = "it.lutech.c2sense.pee.ws.ServiceMock")
+@WebService(endpointInterface = "org.exemple.app.ws.ServiceMock")
 public class ServiceMockImpl implements ServiceMock {
 
     private static Logger logger = LoggerFactory.getLogger(ServiceMockImpl.class);

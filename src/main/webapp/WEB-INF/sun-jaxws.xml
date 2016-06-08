@@ -4,6 +4,6 @@
 
     <endpoint
             name='ServiceMockWS'
-            implementation='it.lutech.c2sense.pee.ws.ServiceMockImpl'
+            implementation='org.exemple.app.ws.ServiceMockImpl'
             url-pattern='/ws/ServiceMockWS'/>
 </endpoints>
