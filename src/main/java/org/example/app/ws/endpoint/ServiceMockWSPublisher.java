@@ -1,6 +1,6 @@
-package org.exemple.app.ws.endpoint;
+package org.example.app.ws.endpoint;
 
-import org.exemple.app.ws.ServiceMockImpl;
+import org.example.app.ws.ServiceMockImpl;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.core.env.Environment;
 

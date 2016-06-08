@@ -1,4 +1,4 @@
-package org.exemple.app.ws;
+package org.example.app.ws;
 
 import javax.jws.WebMethod;
 import javax.jws.WebService;

@@ -1,4 +1,4 @@
-package org.exemple.app.ws;
+package org.example.app.ws;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
@@ -6,7 +6,7 @@ import org.slf4j.LoggerFactory;
 import javax.jws.WebService;
 
 //Service Implementation
-@WebService(endpointInterface = "org.exemple.app.ws.ServiceMock")
+@WebService(endpointInterface = "org.example.app.ws.ServiceMock")
 public class ServiceMockImpl implements ServiceMock {
 
     private static Logger logger = LoggerFactory.getLogger(ServiceMockImpl.class);

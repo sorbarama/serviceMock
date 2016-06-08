@@ -4,6 +4,6 @@
 
     <endpoint
             name='ServiceMockWS'
-            implementation='org.exemple.app.ws.ServiceMockImpl'
+            implementation='org.example.app.ws.ServiceMockImpl'
             url-pattern='/ws/ServiceMockWS'/>
 </endpoints>
